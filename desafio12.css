@@ -1,0 +1,24 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-align: left;
+
+    }
+    body {
+        background-image: url('https://i0.wp.com/meugodrive.wpcomstaging.com/wp-content/uploads/2023/11/Visao-aerea-do-Eixo-Monumentla-em-Brasilia.png?fit=800%2C400&ssl=1');
+        font-family: 'Segoe UI', Verdana, sans-serif;
+        color: #ffffff;
+        background-size: cover;
+
+    }
+    .container {
+    margin: 250px 0 20px 150px;
+    }
+    .title {
+    font-size: 80px;
+    }
+    .subtitle {
+    margin: 20px 0 50px 0;
+    font-size: 30px;
+    }
